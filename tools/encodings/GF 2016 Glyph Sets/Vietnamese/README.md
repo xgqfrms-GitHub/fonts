@@ -98,5 +98,5 @@ Aacute.loclVIT Abreve.loclVIT Acircumflex.loclVIT Agrave.loclVIT Atilde.loclVIT 
 Other glyphs are unique for Vietnamese wihin the GF Latin glyphs sets range, they will be created with special Vietnamese accents. 
 
 
-*Written by Alexei Vanyashin. * [@alexeiva](https://github.com/alexeiva)
+*Written by Alexei Vanyashin* [@alexeiva](https://github.com/alexeiva)
 

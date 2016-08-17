@@ -3,7 +3,7 @@
 ####How to create localized Vietnamese glyphs, different from default Latin in Glyphs App
 
 
-First, let's create glyphs for localized Vietnamese accents. Go to `Glyphs > Add Glyphs`, copy and paster the command below:
+First, let's create glyphs for localized Vietnamese accents. Go to `Glyphs > Add Glyphs`, copy and paste the command below:
 
 
 ```

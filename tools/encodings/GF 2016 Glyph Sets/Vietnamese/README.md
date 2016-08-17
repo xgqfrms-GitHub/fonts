@@ -1,6 +1,9 @@
-***How to create better Vietnames accents***
+### Making Vietnamese look better
 
-First, let's create glyphs for the localized Vietnamese accents. Go to 'Glyphs > Add Glyphs', copy and paster the command below:
+####How to create localized Vietnamese glyphs, different from default Latin in Glyphs App
+
+
+First, let's create glyphs for localized Vietnamese accents. Go to `Glyphs > Add Glyphs`, copy and paster the command below:
 
 
 ```
@@ -13,7 +16,7 @@ tildecomb=tildecomb.loclVIT
 
 ![Vietnamese accents](img/VIT_accents.jpg)
 
-Adjust the new accents to your liking. Then add localised Vietnamese glyphs with the next command. Go to 'Glyphs > Add Glyphs', copy and paste the code below:
+Adjust the new accents to your liking. Then add localised Vietnamese glyphs with the next command. Go to `Glyphs > Add Glyphs`, copy and paste the code below:
 
 ```
 A+acutecomb.loclVIT=Aacute.loclVIT
@@ -99,4 +102,6 @@ Other glyphs are unique for Vietnamese wihin the GF Latin glyphs sets range, the
 
 
 *Written by Alexei Vanyashin* [@alexeiva](https://github.com/alexeiva)
+
+Acknowledgments: Nhung Nguyen [@crystaltype](https://github.com/crystaltype) for the idea
 

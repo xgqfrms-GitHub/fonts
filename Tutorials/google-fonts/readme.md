@@ -1,6 +1,49 @@
 # google-fonts
 https://fonts.google.com/
 
+https://fonts.google.com/specimen/Lobster  
+
+https://fonts.google.com/specimen/Lobster?selection.family=Cookie|Josefin+Slab|Lobster|Open+Sans+Condensed:300|Play|Raleway
+
+https://developers.google.com/fonts/docs/getting_started
+
+
+```css
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet">
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Lobster');
+</style>
+
+font-family: 'Lobster', cursive;
+
+
+<style>
+@import url('https://fonts.googleapis.com/css?family=Cookie|Josefin+Slab|Lobster|Open+Sans+Condensed:300|Play|Raleway');
+</style>
+
+<link href="https://fonts.googleapis.com/css?family=Cookie|Josefin+Slab|Lobster|Open+Sans+Condensed:300|Play|Raleway" rel="stylesheet">
+
+#Specify in CSS
+
+//Use the following CSS rules to specify these families:
+font-family: 'Lobster', cursive;
+font-family: 'Josefin Slab', serif;
+font-family: 'Open Sans Condensed', sans-serif;
+font-family: 'Play', sans-serif;
+font-family: 'Cookie', cursive;
+font-family: 'Raleway', sans-serif;
+
+
+``` 
+
+
+
+
+
+
+
+
 
 ## bs
 ```js
